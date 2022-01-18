@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("helohelo");
+  printf("helohelo of yariorimaton");
   return 0;
 }
